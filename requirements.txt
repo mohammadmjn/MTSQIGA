@@ -4,6 +4,7 @@ spacy
 nltk
 deap
 truecase
+pandas
 pylama
 autopep8
 flake8
